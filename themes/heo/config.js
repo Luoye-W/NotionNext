@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到叶落的博客', url: 'https://blog.yeluo.io' },
-    { title: '访问文档中心获取更多帮助', url: 'https://https://blog.yeluo.io' }
+    { title: '分享出海跨境和AI', url: 'https://https://blog.yeluo.io' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -50,10 +50,10 @@ const CONFIG = {
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://x.com/yeluofine',
-  HEO_INFO_CARD_ICON2: 'fab fa-twitter',
-  HEO_INFO_CARD_URL3: 'https://blog.yeluo.io',
+  HEO_INFO_CARD_ICON1: 'fa-solid fa-comments',
+  HEO_INFO_CARD_URL2: 'https://v.douyin.com/VbUSs3dx_Po',
+  HEO_INFO_CARD_ICON2: 'fa-brands fa-tiktok',
+  HEO_INFO_CARD_URL3: '/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
